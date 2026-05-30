@@ -289,23 +289,3 @@ npm start
 ## License
 
 This project is licensed under the ISC License.
-
----
-
-## FAQ
-
-**Q: How do I add a new department or shift?**  
-A: Use the admin dashboard or API endpoints `/api/department` and `/api/shift`.
-
-**Q: How are notifications sent?**  
-A: Notifications are sent via email (Nodemailer), SMS (Twilio), and stored in the database for in-app display.
-
-**Q: How do I generate payslips?**  
-A: Payroll module generates PDF payslips using PDFKit, downloadable from the payroll page.
-
-**Q: How do I reset my password?**  
-A: Use the password reset feature via `/api/auth`.
-
----
-
-**For any questions or issues, please open an issue on GitHub.**
