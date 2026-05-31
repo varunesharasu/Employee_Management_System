@@ -273,19 +273,3 @@ npm start
 
 - Frontend: React Testing Library, Jest (see `client/src/App.test.js`)
 - Backend: Add tests for controllers and routes as needed.
-
----
-
-## Contributing
-
-1. Fork the repo
-2. Create your feature branch (`git checkout -b feature/YourFeature`)
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
-
----
-
-## License
-
-This project is licensed under the ISC License.
