@@ -143,13 +143,6 @@ cd server
 npm install
 ```
 
-#### Frontend
-
-```sh
-cd ../client
-npm install
-```
-
 ### 3. Configure Environment Variables
 
 Create a `.env` file in `server/`:
