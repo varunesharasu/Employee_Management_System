@@ -174,13 +174,6 @@ cd server
 npm start
 ```
 
-#### Frontend
-
-```sh
-cd client
-npm start
-```
-
 - Frontend: [http://localhost:3000](http://localhost:3000)
 - Backend: [http://localhost:5000](http://localhost:5000)
 
