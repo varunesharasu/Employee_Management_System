@@ -165,13 +165,6 @@ TWILIO_AUTH_TOKEN=your_twilio_auth_token
 TWILIO_PHONE=your_twilio_phone_number
 ```
 
-### 4. Start the Application
-
-- Frontend: [http://localhost:3000](http://localhost:3000)
-- Backend: [http://localhost:5000](http://localhost:5000)
-
----
-
 ## Data Models
 
 ### User
