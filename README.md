@@ -167,13 +167,6 @@ TWILIO_PHONE=your_twilio_phone_number
 
 ### 4. Start the Application
 
-#### Backend
-
-```sh
-cd server
-npm start
-```
-
 - Frontend: [http://localhost:3000](http://localhost:3000)
 - Backend: [http://localhost:5000](http://localhost:5000)
 
