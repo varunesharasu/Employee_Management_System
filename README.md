@@ -136,12 +136,6 @@ cd Employee_Management_System
 
 ### 2. Install Dependencies
 
-#### Backend
-
-```sh
-cd server
-npm install
-```
 
 ### 3. Configure Environment Variables
 
